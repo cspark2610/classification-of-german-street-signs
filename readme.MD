@@ -11,3 +11,5 @@ Baseline classification rate (purely by chance): 41.1% accuracy
 7 layer netowrk with a Adam optimizer: 96.7% test accuracy
 
 ### Include presentation link
+
+https://github.com/cspark2610/classification-of-german-street-signs/blob/master/Sign%20Classification.pptx
